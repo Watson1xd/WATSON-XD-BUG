@@ -16,7 +16,7 @@
 ---
 
 ## CREATE YOUR FORK
-<a href="https://github.com/WATSON-XD2/WATSON-XD_BUG/fork">
+<a href="https://github.com/Watson1xd/WATSON-XD-BUG/fork">
   <img title="WATSON-XD-BUG" src="https://img.shields.io/badge/FORK-WATSON-XD-BUG-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
