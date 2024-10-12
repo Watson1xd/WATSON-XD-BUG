@@ -1,0 +1,18 @@
+{
+  "name": "WATSON-XD-BUG",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/DRK-S-TEN/DRK_ST_BUG1",
+  "logo": "https://i.imgur.com/L8mk6Fb.jpeg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
