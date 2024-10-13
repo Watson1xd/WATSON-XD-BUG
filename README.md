@@ -36,13 +36,13 @@
 <div align="center">
   <!-- Badges for deployment -->
   <a href="https://youtu.be/AZg7UMMy6q8?si=_YyYGgUS1AL9oR-B" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Deployment" />
+    <img src="https://img.shields.io/badge/Deployment-GitHub-bkack?style=for-the-badge&logo=github" alt="GitHub Deployment" />
   </a>
   <a href="https://youtu.be/4b1HNuaQx54?si=CSRoq27E8nS0AeNA" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-Codespace-blue?style=for-the-badge&logo=github" alt="Codespace Deployment" />
+    <img src="https://img.shields.io/badge/Deployment-Codespace-green?style=for-the-badge&logo=github" alt="Codespace Deployment" />
   </a>
   <a href="https://youtu.be/yH2KCK0AD4I?si=F5tjgBpK4ZQO0F-x" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-Replit-blue?style=for-the-badge&logo=replit" alt="Replit Deployment" />
+    <img src="https://img.shields.io/badge/Deployment-Replit-pink?style=for-the-badge&logo=replit" alt="Replit Deployment" />
   </a>
   
 ---
