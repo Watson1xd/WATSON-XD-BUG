@@ -3,14 +3,14 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "263789622747"
-global.ownername = "🌹⃟⃢👑𝗪𝗔𝗧𝗦𝗢𝗡𝗫𝗗🌹⃟⃢👑"
+global.ownername = "𝗪𝗔𝗧𝗦𝗢𝗡𝗫𝗗"
 global.ytname = "WATSON_TECH"
 global.socialm = "GitHub: WATSON-XD2"
 global.location = "Africa, harare, Zimbabwe"
 
 global.ownernumber = '263789622747'  //creator number
 global.ownername = '𝗪𝗔𝗧𝗦𝗢𝗡𝗫𝗗' //owner name
-global.botname = 'DRK_ST_BUG' //name of the bot
+global.botname = 'WATSON-XD-BUG' //name of the bot
 
 //sticker details
 global.packname = '🗾'
